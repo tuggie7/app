@@ -1,0 +1,7 @@
+data.txt
+
+dizin/*
+!dizin/deneme.txt
+
+dosya/*
+!dosya/ders1.txt
